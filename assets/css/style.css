@@ -39,7 +39,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #004b49;
+  background: #330852;
 }
 
 #preloader:before {
@@ -47,7 +47,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #42d1d5;
+  border: 6px solid #00b6ff;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -582,7 +582,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #83ffdc;
+  background: #ffff00;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -686,7 +686,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 30px;
-  color: #83ffdc;
+  color: #00b6ff;
 }
 
 .why-us .content h4 {
@@ -739,7 +739,7 @@ section {
 }
 
 .why-us .accordion-list span {
-  color: #ffff94;
+  color: #88ace0;
   font-weight: 600;
   font-size: 18px;
   padding-right: 10px;
@@ -885,7 +885,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #83ffdc;
+  color: #00b6ff;
   font-size: 36px;
   transition: 0.4s;
 }
@@ -1158,13 +1158,13 @@ section {
 .team .member h4 {
   font-weight: 700;
   margin-bottom: 5px;
-  font-size: 20px;
+  font-size: 13px;
   color: #ffff9e;
 }
 
 .team .member span {
   display: block;
-  font-size: 15px;
+  font-size: 12px;
   padding-bottom: 10px;
   position: relative;
   font-weight: 500;
@@ -1184,7 +1184,7 @@ section {
 
 .team .member p {
   margin: 10px 0 0 0;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .team .member .social {
@@ -1320,11 +1320,11 @@ section {
 }
 
 .pricing .featured {
-  border-top-color: #83ffdc;
+  border-top-color: #00b6ff;
 }
 
 .pricing .featured .buy-btn {
-  background: #83ffdc;
+  background: #00b6ff;
   color: #000000;
 }
 
